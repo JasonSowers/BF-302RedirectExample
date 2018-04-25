@@ -27,7 +27,7 @@ namespace _302Redirect.Dialogs
                 Title = "Open URL",
                 Type = ActionTypes.OpenUrl,
                 Text = "Open URL",
-                Value = "https://34878889.ngrok.io/api/redirect"
+                Value = "https://f450a257.ngrok.io/api/redirect"
             };
            
             buttons.Add(ca1);
